@@ -20,8 +20,8 @@ the number of people (duckies) in the twitch channel.  May need to dig into inte
   - spend NANDS(channel points) to get a zombied duck?
 
 
-<b id="f1">[1]:</b> ![brb page example](https://i.pinimg.com/originals/5a/6b/09/5a6b09fe0c5ce2e3b8d12bcaf0250e27.png)
+<b id="f1">[1]: </b> brb example ![brb page example](https://miro.medium.com/max/2400/1*pCN3Mc3HDe4NlKvSaCZ82g.png)
  [↩](#a1)
 
-<b id="f2">[2]:</b> ![starting soon example](https://thumbs.gfycat.com/BronzeGleefulBarb-size_restricted.gif)
+<b id="f2">[2]:</b> starting soon example ![starting soon example](https://thumbs.gfycat.com/BronzeGleefulBarb-size_restricted.gif)
   [↩](#a2)
